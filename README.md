@@ -1,3 +1,3 @@
 # Exploratory-territory
 
-This is the Project for the course Data Analytics at PES UNIVERSITY
+Missing Plots in the jupyter notebook (when viewed in github without downloadng it) are added in Missing_plots folder for convinience
